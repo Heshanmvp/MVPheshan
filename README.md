@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MVPheshan Full stack developer 
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Web development
+- 👋 Hi, I’m @MVPheshan.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning coding.
 
 
 <!---
