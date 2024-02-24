@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MVPheshan.
-- 👀 I’m interested in Web development.
+- 👋 Hi, I’m @Heshan_mvp.
+- 👀 I’m interested in Full stack development.
 - 🌱 I’m currently learning coding.
 
 
